@@ -1,0 +1,98 @@
+\ProvidesPackage{tongjiutils}[2007/11/30 4.1 put any packages you
+would like to use here]
+
+% 处理数学公式中的黑斜体的宏包
+%\RequirePackage{bm}
+
+
+% 不同于~|\mathcal| or |\mathfrak| 之类的英文花体字体
+%\RequirePackage{mathrsfs}
+
+% 表格中支持跨行
+\RequirePackage{multirow}
+
+% 跨页表格
+%\RequirePackage{longtable}
+
+% 固定宽度的表格
+\RequirePackage{tabularx}
+
+% 表格中的反斜线
+\RequirePackage{slashbox}
+
+% 确定浮动对象的位置，可以使用~H，强制将浮动对象放到这里（可能效果很差）
+\RequirePackage{float}
+
+\usepackage{titletoc}
+\titlecontents{chapter}[0pt]{\vspace{0pt}}%
+          {\wuhao\bfseries\song\thecontentslabel\enspace}%
+              {\wuhao\song}{\dotfill\contentspage}[\vspace{0pt}]
+\titlecontents{section}[2em]{\vspace{0pt}}%
+          {\wuhao\song \thecontentslabel\enspace}%
+              {\wuhao\song}{\dotfill\contentspage}[\vspace{0pt}]
+\titlecontents{subsection}[4em]{\vspace{0pt}}%
+          {\wuhao\song\thecontentslabel\enspace}%
+              {\wuhao\song}{\dotfill\contentspage}[\vspace{0pt}]
+
+%\usepackage[bf,small,indentafter,pagestyles]{titlesec}
+%\titleformat{\chapter}[hang]{\centering\LARGE\hei\bfseries}{\chaptername}{1em}{}
+%\titleformat{\section}[hang]{\Large\hei}{\thetitle}{1em}{}
+
+
+
+
+
+\usepackage{eso-pic}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{CJK}
+\usepackage{times}
+\usepackage[top=3.8cm, bottom=3.07cm, left=3.55cm, right=2cm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{totpages}
+%\usepackage{lastpage}%总页数
+\pagestyle{fancy}
+\setlength{\headheight}{0.6in}
+\rhead{毕业设计（论文）}
+\cfoot{}
+\rfoot{共~~\totalpages~~页\quad\quad第~~\thepage~~页}
+% Watermark Settings
+\newcommand\WatermarkPicture{%
+   \put(-240,430){%
+   \parbox[\paperheight]{\paperwidth}{%
+     \vfill
+     \centering
+     \includegraphics[width=18pt,keepaspectratio]{zhuangdingxian}%
+     \vfill
+     }
+   }
+}
+\newsavebox{\mygraphic}
+\sbox{\mygraphic}{\includegraphics[totalheight=0.4in]{figures/tj}}
+\fancyhead[L]{\usebox{\mygraphic}}
+%\renewcommand{\headheight}{0.6in}
+\renewcommand{\headrulewidth}{2.0pt}
+\renewcommand{\footrulewidth}{2.0pt}
+% 浮动图形控制宏包。
+% 允许上一个~section 的浮动图形出现在下一个~section 的开始部分
+% 该宏包提供处理浮动对象的~|\FloatBarrier| 命令，使所有未处
+% 理的浮动图形立即被处理。这三个宏包仅供参考，未必使用：
+ % \RequirePackage[below]{placeins}
+ % \RequirePackage{floatflt} % 图文混排用宏包
+ % \RequirePackage{rotating} % 图形和表格的控制旋转
+
+% 给自定义的宏后面自动加空白
+% \RequirePackage{xspace}
+
+
+% 定义自己常用的东西
+\newcommand{\china}{中华人民共和国}
+
+
+\newcommand\toctotalpages{\pageref{tocend}}
+\newcommand\totalpages{\pageref{TotPages}}
+
+
+
+
+\endinput

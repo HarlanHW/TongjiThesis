@@ -1,0 +1,30 @@
+\documentclass[UTF8]{ctexart}
+%\documentclass{article}
+%\usepackage{CJK}
+\usepackage {Hologo}
+\usepackage {listings}
+\usepackage{fontspec}  
+\setmonofont{Consolas} 
+\begin{document}
+\title{同济大学本科毕业论文\Hologo{LaTeX}模板说明}
+\author{\textbf{HarlanHW，harlanhw@foxmail.com}}
+%\date{today}
+\maketitle
+\subsection{说明}笔者为2019届同济本科毕业生，根据之前学长险些失传的同济大学本科毕业论文\Hologo{LaTeX}模板调整，改进，补充为2019年毕业论文模板，并对原项目中的一些问题给予修正。
+\subsection{编译环境}
+笔者使用的编译环境为 Windows10+texlive2017+CTeX 2.9.2
+\subsection{问题和解决方案}
+下面是遇到的一些问题。
+\subsubsection{缺少ccmap.sty}
+这个问题会报错但是不影响编译结果，可以自己新建一个ccmap.sty放在对应位置。
+\subsubsection{缺少slashbox.sty}
+从http://mirrors.cqu.edu.cn/CTAN/macros/latex/contrib/slashbox/slashbox.sty下载slashbox.sty放在对应的位置。
+\subsubsection{缺少gbk2uni.exe}
+由于原文件用的是gbk编码，在转成PDF时容易乱码需要用到gbk2uni.exe，已经补充在项目中。使用时需要将其复制到C:$\backslash$*$\backslash$CTEX$\backslash$MiKTeX$\backslash$miktex$\backslash$bin中，其中*为自己对应的路径。
+\subsubsection{可能出现的一个问题}
+使用WinEdt要注意在Options->Execution Modes->Tex System里设置Tex Bin的路径为你安装的路径，格式为C:$\backslash$*$\backslash$CTEX$\backslash$MiKTeX$\backslash$miktex$\backslash$bin
+\subsection{致谢}
+感谢该模板最初的来源清华大学T\small{HU}T\small{HESIS}开发者薛瑞尼以及同济大学贡献人员：\textbf{闻人Q}，\textbf{WildWolfxg}，\textbf{Gondalman}，\textbf{j0sf}。
+
+\end{document}
+
