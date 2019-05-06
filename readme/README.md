@@ -1,4 +1,4 @@
 tongjithesis
 ============
 
-TongjiThesis is the abbreviation of Tongji University(P.R.C) Thesis LaTeX Template. This macro package aimed at creating a simple-to-use LaTeX dissertation template, including undergraduate thesis, master's thesis, doctoral dissertation.
+这是一个在前人基础上完成的同济大学本科毕业论文\LaTeX模板
