@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.6)  6 MAY 2019 19:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.5.6)  16 MAY 2019 21:47
 entering extended mode
 **thesis.tex
-(C:\Users\张宏伟\Desktop\undergraduate\thesis.tex
+(C:\02study\11github\TongjiThesis\thesis.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(C:\Users\张宏伟\Desktop\undergraduate\tongjithesis.cls
+(C:\02study\11github\TongjiThesis\tongjithesis.cls
 Document Class: tongjithesis 2008/02/28 4.5.1 Tsinghua University Thesis Templa
 te
 (C:\01software\CTEX\MiKTeX\tex\latex\base\book.cls
@@ -520,7 +520,7 @@ Package: hypernat 2001/07/09 v1.0b hyperref and natbib compatibility (jb)
 \c@tongji@bookmark=\count142
 \tongji@title@width=\skip75
 )
-(C:\Users\张宏伟\Desktop\undergraduate\tongjithesis.cfg
+(C:\02study\11github\TongjiThesis\tongjithesis.cfg
 File: tongjithesis.cfg 2008/02/28 4.5.1 Tsinghua University Thesis Template
 \c@currproofctr=\count143
 \c@endproofctr=\count144
@@ -562,7 +562,7 @@ File: tongjithesis.cfg 2008/02/28 4.5.1 Tsinghua University Thesis Template
 \c@endconjecturectr=\count180
 \c@conjecture=\count181
 )
-(C:\Users\张宏伟\Desktop\undergraduate\tongjiutils.sty
+(C:\02study\11github\TongjiThesis\tongjiutils.sty
 Package: tongjiutils 2007/11/30 4.1 put any packages you would like to use here
 
 
@@ -664,18 +664,9 @@ File: figures/tj.png Graphic file (type png)
 Package pdftex.def Info: figures/tj.png used on input line 71.
 (pdftex.def)             Requested size: 120.38315pt x 28.90755pt.
 )
-(C:\Users\张宏伟\Desktop\undergraduate\thesis.aux
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap01.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap02.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap03.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap04.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap05.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/reference.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/ack.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/appendix01.aux))
+No file thesis.aux.
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 20.
 LaTeX Font Info:    Try loading font information for OML+txmi on input line 20.
-
 
 (C:\01software\CTEX\MiKTeX\tex\latex\txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
@@ -818,9 +809,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
-
-(C:\Users\张宏伟\Desktop\undergraduate\thesis.out)
-(C:\Users\张宏伟\Desktop\undergraduate\thesis.out)
 \@outlinefile=\write3
 
 *geometry* driver: auto-detecting
@@ -876,7 +864,7 @@ File: c19song.fd 2009/09/23 4.8.2
 Package CJKpunct Info: use punctuation spaces for family 'song' with punctstyle
  (quanjiao) on input line 20.
 
-(C:\Users\张宏伟\Desktop\undergraduate\data/cover.tex)
+(C:\02study\11github\TongjiThesis\data/cover.tex)
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 31.
 
 (C:\01software\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd
@@ -934,11 +922,14 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `tocend' on page I undefined on input line 31.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
 
-<figures/zhuangdingxian.pdf, id=178, 80.3pt x 2609.75pt>
+<figures/zhuangdingxian.pdf, id=5, 80.3pt x 2609.75pt>
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
@@ -954,11 +945,14 @@ nicode.sfd}{UGBK.sfd}}
 
 
 
- <C:/Users/张宏伟/Desktop/undergraduate/figures/zhuangdingxian.pdf> <C:/User
-s/张宏伟/Desktop/undergraduate/figures/tj.png>]
+ <C:/02study/11github/TongjiThesis/figures/zhuangdingxian.pdf> <C:/02study/11gi
+thub/TongjiThesis/figures/tj.png>]
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
+
+
+LaTeX Warning: Reference `tocend' on page II undefined on input line 38.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -977,35 +971,6 @@ Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 38.
 
 
 ]
-(C:\Users\张宏伟\Desktop\undergraduate\thesis.toc
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 26.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-LaTeX Font Info:    Calculating math sizes for size <14.05249> on input line 26
-.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 26.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 26.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [3.3
-
-
-])
 \tf@toc=\write4
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1013,6 +978,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `tocend' on page III undefined on input line 42.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1030,8 +998,11 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 42.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [4.4]
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap01.tex
+ [3.3
+
+
+]
+(C:\02study\11github\TongjiThesis\data/chap01.tex
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.53937> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.05249> not available
@@ -1069,6 +1040,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 48.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1090,7 +1064,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 48.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [1.5
+ [1.4
 
 
 
@@ -1119,9 +1093,16 @@ Overfull \hbox (24.64244pt too wide) in alignment at lines 81--91
  []
 
 
+LaTeX Warning: Reference `tab:template-files' on page 2 undefined on input line
+ 95.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
+
+
+LaTeX Warning: Reference `TotPages' on page 2 undefined on input line 99.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1145,7 +1126,30 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 99.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [2.6]
+ [2.5]
+
+LaTeX Warning: Reference `tab:tabexamp1' on page 3 undefined on input line 104.
+
+
+
+LaTeX Warning: Reference `tab:tabexamp1' on page 3 undefined on input line 123.
+
+
+
+LaTeX Warning: Reference `tab:parallel1' on page 3 undefined on input line 143.
+
+
+
+LaTeX Warning: Reference `tab:parallel2' on page 3 undefined on input line 143.
+
+
+
+LaTeX Warning: Reference `tab:subtable' on page 3 undefined on input line 144.
+
+
+LaTeX Warning: Reference `sec:multifig' on page 3 undefined on input line 144.
+
+
 Overfull \hbox (2.0025pt too wide) in paragraph at lines 146--166
 $[]$ $[]$ 
  []
@@ -1159,6 +1163,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 3 undefined on input line 182.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1180,7 +1187,12 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 182.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [3.7]
+ [3.6]
+
+LaTeX Warning: Reference `tab:tabexamp2' on page 4 undefined on input line 202.
+
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 210--210
 []|\OT1/ptm/m/n/11.04124 Waxman
  []
@@ -1191,31 +1203,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [4.8]
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 4 undefined on input line 232.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1224,6 +1212,41 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 232.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [4.7]
+
+LaTeX Warning: Reference `tab:performance' on page 5 undefined on input line 24
+0.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+
+LaTeX Warning: Reference `TotPages' on page 5 undefined on input line 287.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+<use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 287.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
@@ -1239,7 +1262,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 287.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [5.9]
+ [5.8]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7.37752> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 326.
 
@@ -1253,6 +1276,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 6 undefined on input line 342.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1274,7 +1300,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 342.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [6.10]
+ [6.9]
 Package hyperref Info: bookmark level for unknown assumption defaults to 0 on i
 nput line 342.
 Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
@@ -1293,6 +1319,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 7 undefined on input line 398.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1314,7 +1343,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 398.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [7.11]
+ [7.10]
 Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
 line 409.
 Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
@@ -1329,6 +1358,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 8 undefined on input line 456.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1350,7 +1382,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 456.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [8.12]
+ [8.11]
 Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
 t line 466.
 Package hyperref Info: bookmark level for unknown exercise defaults to 0 on inp
@@ -1359,6 +1391,9 @@ Package hyperref Info: bookmark level for unknown conjecture defaults to 0 on i
 nput line 481.
 Package hyperref Info: bookmark level for unknown problem defaults to 0 on inpu
 t line 487.
+
+
+LaTeX Warning: Reference `the:theorem1' on page 9 undefined on input line 490.
 
 
 Package natbib Warning: Citation `tex' on page 9 undefined on input line 502.
@@ -1436,9 +1471,16 @@ Package natbib Warning: Citation `shaheshang' on page 9 undefined on input line
  510.
 
 
+LaTeX Warning: Reference `equ:chap1:bayes' on page 9 undefined on input line 51
+4.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
+
+
+LaTeX Warning: Reference `TotPages' on page 9 undefined on input line 520.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1462,7 +1504,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 520.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [9.13]
+ [9.12]
 LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 542
 .
 )
@@ -1471,31 +1513,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [10.14]
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 10 undefined on input line 43.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1519,22 +1537,71 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [11.15]
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap02.tex
-<figures/hello.pdf, id=634, 182.6825pt x 51.19125pt>
+ [10.13]
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+
+LaTeX Warning: Reference `TotPages' on page 11 undefined on input line 43.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 43.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [11.14]
+(C:\02study\11github\TongjiThesis\data/chap02.tex
+
+LaTeX Warning: Reference `cha:intro' on page 12 undefined on input line 15.
+
+
+LaTeX Warning: Reference `equ:chap1:bayes' on page 12 undefined on input line 1
+5.
+
+
+LaTeX Warning: Reference `fig:xfig1' on page 12 undefined on input line 41.
+
+<figures/hello.pdf, id=361, 182.6825pt x 51.19125pt>
 File: figures/hello.pdf Graphic file (type pdf)
  <use figures/hello.pdf>
 Package pdftex.def Info: figures/hello.pdf used on input line 44.
 (pdftex.def)             Requested size: 182.68204pt x 51.19112pt.
 
-<figures/thu-fig-logo.pdf, id=638, 68.255pt x 68.255pt>
+
+LaTeX Warning: Reference `fig:big1' on page 12 undefined on input line 64.
+
+
+LaTeX Warning: Reference `fig:subfig1' on page 12 undefined on input line 64.
+
+
+LaTeX Warning: Reference `fig:subfig2' on page 12 undefined on input line 65.
+
+<figures/thu-fig-logo.pdf, id=362, 68.255pt x 68.255pt>
 File: figures/thu-fig-logo.pdf Graphic file (type pdf)
 
 <use figures/thu-fig-logo.pdf>
 Package pdftex.def Info: figures/thu-fig-logo.pdf used on input line 71.
 (pdftex.def)             Requested size: 56.90575pt x 56.9055pt.
 
-<figures/thu-text-logo.pdf, id=639, 143.53625pt x 47.17625pt>
+<figures/thu-text-logo.pdf, id=363, 143.53625pt x 47.17625pt>
 File: figures/thu-text-logo.pdf Graphic file (type pdf)
 
 <use figures/thu-text-logo.pdf>
@@ -1546,6 +1613,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 12 undefined on input line 78.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -1572,12 +1642,12 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 78.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [12.16
+ [12.15
 
 
 
- <C:/Users/张宏伟/Desktop/undergraduate/figures/hello.pdf>]
-<figures/thu-whole-logo.pdf, id=656, 226.8475pt x 69.25874pt>
+ <C:/02study/11github/TongjiThesis/figures/hello.pdf>] <figures/thu-whole-logo.
+pdf, id=383, 226.8475pt x 69.25874pt>
 File: figures/thu-whole-logo.pdf Graphic file (type pdf)
 
 <use figures/thu-whole-logo.pdf>
@@ -1593,39 +1663,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [13.17 <C:/Users/张宏伟/Desktop/undergraduate/figures/thu-fig-logo.pdf> <C:
-/Users/张宏伟/Desktop/undergraduate/figures/thu-text-logo.pdf> <C:/Users/张
-宏伟/Desktop/undergraduate/figures/thu-whole-logo.pdf>] (C:\Users\张宏伟\D
-esktop\undergraduate\data/chap03.tex
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 13 undefined on input line 44.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1634,14 +1672,45 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 44.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [13.16 <C:/02study/11github/TongjiThesis/figures/thu-fig-logo.pdf> <C:/02study
+/11github/TongjiThesis/figures/thu-text-logo.pdf> <C:/02study/11github/TongjiTh
+esis/figures/thu-whole-logo.pdf>]
+(C:\02study\11github\TongjiThesis\data/chap03.tex
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+
+LaTeX Warning: Reference `TotPages' on page 14 undefined on input line 30.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
@@ -1658,7 +1727,16 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [14.18
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [14.17
 
 
 
@@ -1668,41 +1746,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [15.19]
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap04.tex
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 15 undefined on input line 45.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1711,14 +1755,47 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 45.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [15.18]
+(C:\02study\11github\TongjiThesis\data/chap04.tex
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+
+LaTeX Warning: Reference `TotPages' on page 16 undefined on input line 30.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
@@ -1740,7 +1817,16 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [16.20
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [16.19
 
 
 
@@ -1750,46 +1836,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [17.21]
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap05.tex
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 17 undefined on input line 46.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1798,14 +1845,52 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 46.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [17.20]
+(C:\02study\11github\TongjiThesis\data/chap05.tex
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+
+LaTeX Warning: Reference `TotPages' on page 18 undefined on input line 30.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
@@ -1831,7 +1916,16 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [18.22
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 30.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [18.21
 
 
 
@@ -1841,50 +1935,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [19.23]
-(C:\Users\张宏伟\Desktop\undergraduate\data/reference.tex)
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 19 undefined on input line 47.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -1893,111 +1944,101 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 47.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [19.22]
+No file thesis.bbl.
+(C:\02study\11github\TongjiThesis\data/ack.tex)
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+
+LaTeX Warning: Reference `TotPages' on page 20 undefined on input line 57.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 54.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [20.24
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [20.23
 
 
 
 
 ]
-(C:\Users\张宏伟\Desktop\undergraduate\data/ack.tex)
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 57.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [21.25
-
-
-
-
-]
-(C:\Users\张宏伟\Desktop\undergraduate\data/appendix01.tex
+(C:\02study\11github\TongjiThesis\data/appendix01.tex
 \c@currmpdefctr=\count196
 \c@endmpdefctr=\count197
 \c@mpdef=\count198
@@ -2008,15 +2049,22 @@ line 37.
 Package hyperref Info: bookmark level for unknown mpdefop defaults to 0 on inpu
 t line 49.
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+
+LaTeX Warning: Reference `eq:ktc' on page 21 undefined on input line 58.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
 
+
+LaTeX Warning: Reference `TotPages' on page 21 undefined on input line 68.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 68.
@@ -2061,33 +2109,31 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 68.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 68.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [22.26
+ [21.24
 
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1.
+pdfTeX warning (ext4): destination with the same identifier (name{equation.A.1.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.68 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
-r (name{equation.6.1.1}) has been already used, duplicate ignored
+r (name{equation.A.1.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.68 \begin{equation}
                      ]
+
+LaTeX Warning: Reference `eq:ktc' on page 22 undefined on input line 78.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 103--103
 []|\OT1/ptm/m/n/11.04124 Waxman
  []
 
-<figures/thu-lib-logo.pdf, id=764, 219.82124pt x 56.21pt>
+<figures/thu-lib-logo.pdf, id=473, 219.82124pt x 56.21pt>
 File: figures/thu-lib-logo.pdf Graphic file (type pdf)
 
 <use figures/thu-lib-logo.pdf>
@@ -2099,63 +2145,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [23.27]
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 22 undefined on input line 136.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -2164,59 +2154,114 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 136.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [24.28 <C:/Users/张宏伟/Desktop/undergraduate/figures/thu-lib-logo.pdf>]
+ [22.25]
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 23 undefined on input line 177.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 177.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [23.26 <C:/02study/11github/TongjiThesis/figures/thu-lib-logo.pdf>]
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+
+LaTeX Warning: Reference `TotPages' on page 24 undefined on input line 183.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -2265,12 +2310,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 183.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 183.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [25.29]
+ [24.27]
 Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\OT1/ptm/m/n/11.04124 Waxman
  []
@@ -2285,6 +2325,9 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
+LaTeX Warning: Reference `TotPages' on page 25 undefined on input line 240.
+
+
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
  []
@@ -2338,11 +2381,7 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 240.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 240.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [26.30
+ [25.28
 
 ]
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -2350,67 +2389,7 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
-
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
-
-<use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
-File: figures/zhuangdingxian.pdf Graphic file (type pdf)
- <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
-(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [27.31])
-Overfull \hbox (2.0025pt too wide) has occurred while \output is active
- []
- []
+LaTeX Warning: Reference `TotPages' on page 26 undefined on input line 255.
 
 
 Overfull \hbox (2.0025pt too wide) has occurred while \output is active
@@ -2419,14 +2398,67 @@ Overfull \hbox (2.0025pt too wide) has occurred while \output is active
 
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 65.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
  <use figures/zhuangdingxian.pdf>
-Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 65.
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
 File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+
+<use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 255.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [26.29])
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+
+LaTeX Warning: Reference `TotPages' on page 27 undefined on input line 65.
+
+
+Overfull \hbox (2.0025pt too wide) has occurred while \output is active
+ []
+ []
+
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 65.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
@@ -2475,172 +2507,19 @@ File: figures/zhuangdingxian.pdf Graphic file (type pdf)
 <use figures/zhuangdingxian.pdf>
 Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 65.
 (pdftex.def)             Requested size: 18.0pt x 584.97824pt.
- [28.32
+File: figures/zhuangdingxian.pdf Graphic file (type pdf)
+ <use figures/zhuangdingxian.pdf>
+Package pdftex.def Info: figures/zhuangdingxian.pdf used on input line 65.
+(pdftex.def)             Requested size: 18.0pt x 584.97824pt.
+ [27.30
 
 ]
-\tf@thm=\write5
+(C:\02study\11github\TongjiThesis\data/appendix01.tex
 
+! LaTeX Error: Command \mpdef already defined.
+               Or name \end... illegal, see p.192 of the manual.
 
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
-(C:\Users\张宏伟\Desktop\undergraduate\thesis.aux
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap01.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap02.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap03.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap04.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/chap05.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/reference.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/ack.aux)
-(C:\Users\张宏伟\Desktop\undergraduate\data/appendix01.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
-
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: A33E99D3CE85D9047142685419DC6726;5804
-(rerunfilecheck)             After:  F3F21FA8988B7409305DBD6061929441;5337.
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.41063pt have occurred.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
-Here is how much of TeX's memory you used:
- 17525 strings out of 495354
- 273986 string characters out of 3183244
- 340790 words of memory out of 3000000
- 19947 multiletter control sequences out of 15000+200000
- 219921 words of font info for 622 fonts, out of 3000000 for 9000
- 15 hyphenation exceptions out of 8191
- 51i,23n,52p,511b,1121s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTE
-X/CTeX/fonts/truetype/chinese/simsun.ttf>{C:/01software/CTEX/MiKTeX/fonts/enc/d
-vips/fontname/8r.enc}<C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX
-/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype
-/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
-<C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/
-CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows
-/Fonts/simhei.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C
-:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CT
-eX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/ch
-inese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:
-/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTe
-X/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chi
-nese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/
-01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX
-/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chin
-ese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/0
-1software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/
-fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chine
-se/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/01software/CTEX/CTeX/fonts/truet
-ype/chinese/simsun.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf>
-<C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli
-.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/
-simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/F
-onts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Wind
-ows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:
-/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.tt
-f><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/sim
-li.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Fonts/simli.ttf><C:/Windows/Font
-s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
-hei.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/F
-onts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/W
-indows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.t
-tf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/
-simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Window
-s/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C
-:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyo
-u.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fon
-ts/simyou.ttf><C:/Windows/Fonts/simyou.ttf><C:/Windows/Fonts/simfang.ttf><C:/Wi
-ndows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang
-.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fo
-nts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:
-/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simf
-ang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows
-/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf>
-<C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/s
-imfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Wind
-ows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.t
-tf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Font
-s/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/W
-indows/Fonts/simfang.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.
-ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts
-/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windo
-ws/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><
-C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simk
-ai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fo
-nts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Wi
-ndows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.tt
-f><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
-imkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows
-/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:
-/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai
-.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/01software/C
-TEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truet
-ype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.t
-tf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CT
-EX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
-hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
-onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
-indows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.t
-tf><C:/Windows/Fonts/simhei.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese
-/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01so
-ftware/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fon
-ts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/
-simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01sof
-tware/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/font
-s/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/s
-imsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01soft
-ware/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts
-/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/si
-msun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01softw
-are/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/
-truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/sim
-sun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01softwa
-re/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/t
-ruetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/sims
-un.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01softwar
-e/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/tr
-uetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsu
-n.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fon
-ts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/01software/CTEX/CTeX/fonts/truet
-ype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.t
-tf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CT
-EX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truety
-pe/chinese/simsun.ttf><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.tt
-f><C:/01software/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/01software/CTE
-X/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/01software/CTEX/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy8.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmsy9.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/public/amsfonts/latxfo
-nt/line10.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><
-C:/01software/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/01software/CT
-EX/MiKTeX/fonts/type1/public/txfonts/txex.pfb><C:/01software/CTEX/MiKTeX/fonts/
-type1/public/txfonts/txsy.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/public/txf
-onts/txsya.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb>
-<C:/01software/CTEX/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/01software/CT
-EX/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/01software/CTEX/MiKTeX/fonts/
-type1/urw/helvetic/uhvr8a.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/urw/times/
-utmb8a.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/01s
-oftware/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/01software/CTEX/MiKTeX
-/fonts/type1/urw/times/utmr8a.pfb><C:/01software/CTEX/MiKTeX/fonts/type1/urw/ti
-mes/utmri8a.pfb>
-Output written on thesis.pdf (32 pages, 1678200 bytes).
-PDF statistics:
- 1536 PDF objects out of 1728 (max. 8388607)
- 175 named destinations out of 1000 (max. 500000)
- 386 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+              

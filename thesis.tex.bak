@@ -35,23 +35,23 @@
 
 % 目录
 
-%\tableofcontents \label{tocend}
+\tableofcontents \label{tocend}
 
 
 %%% 正文
-%\mainmatter \rfoot{共~~\totalpages~~页\quad\quad第~~\thepage~~页}
-%\include{data/chap01}
-%\include{data/chap02}
-%\include{data/chap03}
-%\include{data/chap04}
-%\include{data/chap05}
+\mainmatter \rfoot{共~~\totalpages~~页\quad\quad第~~\thepage~~页}
+\include{data/chap01}
+\include{data/chap02}
+\include{data/chap03}
+\include{data/chap04}
+\include{data/chap05}
 
 
 
 % 参考文献
 \bibliographystyle{tongjibib}
 \bibliography{ref/refs}
-
+%\include{data/reference}
 
 % 致谢
 \include{data/ack}
@@ -59,9 +59,9 @@
 
 
 %附录
-%\begin{appendix}
-%\input{data/appendix01}
-%\end{appendix}
-
+\begin{appendix}
+\input{data/appendix01}
+\end{appendix}
+\include{data/appendix01}
 
 \end{document}
