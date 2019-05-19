@@ -376,9 +376,10 @@
 \renewcommand{\floatpagefraction}{0.60}
 \let\old@tabular\@tabular
 \def\tongji@tabular{\dawu[1.5]\old@tabular}
-\DeclareCaptionLabelFormat{tongji}{{\dawu[1.5]\song #1~\rmfamily #2}}
+%此处将标签的宋体改称了黑体
+\DeclareCaptionLabelFormat{tongji}{{\dawu[1.5]\hei #1~\rmfamily #2}}
 \DeclareCaptionLabelSeparator{tongji}{\hspace{1em}}
-\DeclareCaptionFont{tongji}{\song\wuhao[1]}
+\DeclareCaptionFont{tongji}{\hei\wuhao[1]}
 \captionsetup{labelformat=tongji,labelsep=tongji,font=tongji}
 \captionsetup[table]{position=top,belowskip={12bp-\intextsep},aboveskip=6bp}
 \captionsetup[figure]{position=bottom,belowskip={12bp-\intextsep},aboveskip=6bp}
